@@ -1,5 +1,5 @@
 # Wykrywanie hejtu na Twitterze (Polish Twitter Hate Detection)
-[Zobacz Raport]([https://github.com/mateuszdrozd/Cinema_Management_DB/blob/main/Raport%20Kino%20Bazy%20Danych.pdf](https://github.com/mateuszdrozd/Hate_Speech_Detection/blob/main/Projekt.pdf))
+[Zobacz Raport](https://github.com/mateuszdrozd/Hate_Speech_Detection/blob/main/Projekt.pdf)
 ## Opis projektu  
 Celem projektu było zbudowanie klasyfikatora NLP rozróżniającego komentarze z Twittera na **„hejt” (1)** i **„brak hejtu” (0)** w języku polskim. W zbiorze danych panowała **silna nierównowaga klas** – ok. 9× więcej neutralnych niż obraźliwych komentarzy, co stanowiło wyzwanie przy treningu modelu.  
 
